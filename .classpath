@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="add-reads" value="leumiTrade=jdk.management.jfr:leumiTrade=selenium.http:leumiTrade=jdk.charsets:leumiTrade=io.opentelemetry.sdk.metrics:leumiTrade=jakarta.activation:leumiTrade=java.xml:leumiTrade=jdk.xml.dom:leumiTrade=java.datatransfer:leumiTrade=io.netty.transport.unix.common:leumiTrade=java.desktop:leumiTrade=selenium.edge.driver:leumiTrade=java.se:leumiTrade=jcommander:leumiTrade=java.security.sasl:leumiTrade=jdk.zipfs:leumiTrade=commons.exec:leumiTrade=jdk.crypto.ec:leumiTrade=jdk.management.agent:leumiTrade=jdk.jshell:leumiTrade=selenium.devtools.v99:leumiTrade=jdk.editpad:leumiTrade=selenium.support:leumiTrade=async.http.client.netty.utils:leumiTrade=jdk.jsobject:leumiTrade=io.netty.transport.classes.epoll:leumiTrade=java.smartcardio:leumiTrade=jdk.unsupported:leumiTrade=io.opentelemetry.context:leumiTrade=io.netty.codec.socks:leumiTrade=java.security.jgss:leumiTrade=io.netty.transport:leumiTrade=jdk.dynalink:leumiTrade=org.reactivestreams:leumiTrade=io.netty.handler:leumiTrade=java.sql:leumiTrade=io.netty.transport.classes.kqueue:leumiTrade=java.logging:leumiTrade=java.transaction.xa:leumiTrade=jdk.jfr:leumiTrade=jdk.internal.vm.ci:leumiTrade=jdk.net:leumiTrade=jdk.random:leumiTrade=selenium.opera.driver:leumiTrade=jdk.internal.ed:leumiTrade=jdk.compiler:leumiTrade=jdk.naming.rmi:leumiTrade=jdk.jconsole:leumiTrade=selenium.firefox.driver:leumiTrade=selenium.safari.driver:leumiTrade=selenium.json:leumiTrade=j2objc.annotations:leumiTrade=jdk.internal.le:leumiTrade=dev.failsafe:leumiTrade=jdk.jdwp.agent:leumiTrade=com.google.common:leumiTrade=jdk.incubator.foreign:leumiTrade=auto.common:leumiTrade=com.google.errorprone.annotations:leumiTrade=jdk.internal.vm.compiler:leumiTrade=selenium.ie.driver:leumiTrade=selenium.remote.driver:leumiTrade=java.scripting:leumiTrade=io.netty.resolver:leumiTrade=selenium.api:leumiTrade=jdk.jartool:leumiTrade=jdk.jpackage:leumiTrade=java.rmi:leumiTrade=jdk.jdi:leumiTrade=org.slf4j:leumiTrade=jdk.jstatd:leumiTrade=jdk.httpserver:leumiTrade=jdk.jcmd:leumiTrade=jdk.javadoc:leumiTrade=io.netty.buffer:leumiTrade=io.netty.common:leumiTrade=io.opentelemetry.exporter.logging:leumiTrade=io.opentelemetry.sdk.autoconfigure:leumiTrade=java.sql.rowset:leumiTrade=jdk.sctp:leumiTrade=jdk.jlink:leumiTrade=selenium.devtools.v100:leumiTrade=selenium.devtools.v101:leumiTrade=io.opentelemetry.sdk.common:leumiTrade=selenium.java:leumiTrade=java.compiler:leumiTrade=jdk.nio.mapmode:leumiTrade=io.netty.codec:leumiTrade=io.opentelemetry.sdk.extension.logging:leumiTrade=com.typesafe.netty.core:leumiTrade=io.opentelemetry.sdk.trace:leumiTrade=jdk.unsupported.desktop:leumiTrade=failureaccess:leumiTrade=com.google.auto.service:leumiTrade=jdk.accessibility:leumiTrade=jdk.security.jgss:leumiTrade=selenium.chrome.driver:leumiTrade=jdk.incubator.vector:leumiTrade=selenium.devtools.v85:leumiTrade=io.opentelemetry.sdk.autoconfigure.spi:leumiTrade=jdk.hotspot.agent:leumiTrade=java.xml.crypto:leumiTrade=jtoml:leumiTrade=io.netty.handler.proxy:leumiTrade=io.netty.transport.kqueue:leumiTrade=io.opentelemetry.semconv:leumiTrade=jdk.crypto.cryptoki:leumiTrade=java.naming:leumiTrade=io.netty.transport.epoll:leumiTrade=listenablefuture:leumiTrade=java.prefs:leumiTrade=java.net.http:leumiTrade=async.http.client:leumiTrade=jdk.internal.opt:leumiTrade=jdk.attach:leumiTrade=io.opentelemetry.api:leumiTrade=jdk.crypto.mscapi:leumiTrade=jsr305:leumiTrade=java.management:leumiTrade=jdk.internal.jvmstat:leumiTrade=java.instrument:leumiTrade=io.netty.codec.http:leumiTrade=selenium.chromium.driver:leumiTrade=jdk.internal.vm.compiler.management:leumiTrade=jdk.management:leumiTrade=org.checkerframework.checker.qual:leumiTrade=auto.service:leumiTrade=jdk.security.auth:leumiTrade=jdk.jdeps:leumiTrade=java.management.rmi:leumiTrade=io.opentelemetry.sdk:leumiTrade=jdk.naming.dns:leumiTrade=jdk.localedata"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/selenium-api-4.1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/selenium-api-4.1.4-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/selenium-chrome-driver-4.1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/selenium-chrome-driver-4.1.4-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/selenium-chromium-driver-4.1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/selenium-chromium-driver-4.1.4-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/selenium-devtools-v85-4.1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/selenium-devtools-v85-4.1.4-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/selenium-devtools-v99-4.1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/selenium-devtools-v99-4.1.4-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/selenium-devtools-v100-4.1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/selenium-devtools-v100-4.1.4-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/selenium-devtools-v101-4.1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/selenium-devtools-v101-4.1.4-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/selenium-edge-driver-4.1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/selenium-edge-driver-4.1.4-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/selenium-firefox-driver-4.1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/selenium-firefox-driver-4.1.4-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/selenium-http-4.1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/selenium-http-4.1.4-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/selenium-ie-driver-4.1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/selenium-ie-driver-4.1.4-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/selenium-java-4.1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/selenium-java-4.1.4-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/selenium-json-4.1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/selenium-json-4.1.4-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/selenium-opera-driver-4.1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/selenium-opera-driver-4.1.4-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/selenium-remote-driver-4.1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/selenium-remote-driver-4.1.4-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/selenium-safari-driver-4.1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/selenium-safari-driver-4.1.4-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/selenium-support-4.1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/selenium-support-4.1.4-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/async-http-client-2.12.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/async-http-client-netty-utils-2.12.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/auto-common-1.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/auto-service-1.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/auto-service-annotations-1.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/byte-buddy-1.12.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/checker-qual-3.12.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/commons-exec-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/error_prone_annotations-2.11.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/failsafe-3.2.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/failureaccess-1.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/guava-31.1-jre.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/j2objc-annotations-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/jakarta.activation-1.2.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/jcommander-1.82.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/jsr305-3.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/jtoml-2.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/netty-buffer-4.1.76.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/netty-codec-4.1.76.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/netty-codec-http-4.1.76.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/netty-codec-socks-4.1.76.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/netty-common-4.1.76.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/netty-handler-4.1.76.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/netty-handler-proxy-4.1.76.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/netty-reactive-streams-2.0.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/netty-resolver-4.1.76.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/netty-transport-4.1.76.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/netty-transport-classes-epoll-4.1.76.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/netty-transport-classes-kqueue-4.1.76.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/netty-transport-native-epoll-4.1.76.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/netty-transport-native-kqueue-4.1.76.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/netty-transport-native-unix-common-4.1.76.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/opentelemetry-api-1.13.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/opentelemetry-context-1.13.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/opentelemetry-exporter-logging-1.13.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/opentelemetry-sdk-1.13.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/opentelemetry-sdk-common-1.13.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/opentelemetry-sdk-extension-autoconfigure-1.13.0-alpha.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/opentelemetry-sdk-extension-autoconfigure-spi-1.13.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/opentelemetry-sdk-logs-1.13.0-alpha.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/opentelemetry-sdk-metrics-1.13.0-alpha.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/opentelemetry-sdk-trace-1.13.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/opentelemetry-semconv-1.13.0-alpha.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/reactive-streams-1.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Java/selenium-java-4.1.4/lib/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
